@@ -1,0 +1,1 @@
+self.addEventListener('install', e=>{e.waitUntil((async()=>{const cache=await caches.open('wc-v1');await cache.addAll(['./','./index.html','./app.js','./manifest.json','./data.json']);})());});self.addEventListener('fetch', e=>{e.respondWith((async()=>{const r=await caches.match(e.request);return r||fetch(e.request);} )());});

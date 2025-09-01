@@ -1,0 +1,1266 @@
+{
+  "days": {
+    "1": {
+      "title": "Jour 1",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Jumping Jacks",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "High Knees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Burpees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Rows",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Push-ups (PPL)",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "2": {
+      "title": "Jour 2",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "High Knees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Mountain Climbers",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Rows",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Crunches",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "3": {
+      "title": "Jour 3",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Dips",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Lunges (PPL)",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "4": {
+      "title": "Jour 4",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Mountain Climbers",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Burpees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Dips",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Side Plank",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "5": {
+      "title": "Jour 5",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "High Knees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Dips",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Biceps Curls",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "6": {
+      "title": "Jour 6",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Lunges (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Crunches",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "7": {
+      "title": "Jour 7",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Jumping Jacks",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "High Knees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Triceps Dips",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Push-ups (PPL)",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "8": {
+      "title": "Jour 8",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Jumping Jacks",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Dips",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Biceps Curls",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Face Pulls",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Leg Raises",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "9": {
+      "title": "Jour 9",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "High Knees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Burpees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Rows",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Lunges (PPL)",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "10": {
+      "title": "Jour 10",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Jumping Jacks",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Triceps Dips",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Leg Raises",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "11": {
+      "title": "Jour 11",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Mountain Climbers",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Burpees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Biceps Curls",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Face Pulls",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "12": {
+      "title": "Jour 12",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "High Knees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Mountain Climbers",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Lunges (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Calf Raises",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Leg Raises",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "13": {
+      "title": "Jour 13",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Rows",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Triceps Dips",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "14": {
+      "title": "Jour 14",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Mountain Climbers",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Burpees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Biceps Curls",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Rows",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Side Plank",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "15": {
+      "title": "Jour 15",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Mountain Climbers",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Romanian Deadlifts",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Squats (PPL)",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "16": {
+      "title": "Jour 16",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Burpees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Rows",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Leg Raises",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "17": {
+      "title": "Jour 17",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Jumping Jacks",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Rows",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Face Pulls",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Biceps Curls",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "18": {
+      "title": "Jour 18",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Romanian Deadlifts",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Leg Raises",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "19": {
+      "title": "Jour 19",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Jumping Jacks",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (PPL)",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "20": {
+      "title": "Jour 20",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "High Knees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Dips",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Rows",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Biceps Curls",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Crunches",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "21": {
+      "title": "Jour 21",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Jumping Jacks",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Lunges (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Calf Raises",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "22": {
+      "title": "Jour 22",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Jumping Jacks",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Burpees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Rows",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Triceps Dips",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Leg Raises",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "23": {
+      "title": "Jour 23",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Jumping Jacks",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "High Knees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Biceps Curls",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Rows",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "24": {
+      "title": "Jour 24",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Squats (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Calf Raises",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Crunches",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "25": {
+      "title": "Jour 25",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "High Knees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Burpees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Dips",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Push-ups (PPL)",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "26": {
+      "title": "Jour 26",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Mountain Climbers",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Dips",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Rows",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Crunches",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "27": {
+      "title": "Jour 27",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Mountain Climbers",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Rows",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Lunges (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Romanian Deadlifts",
+          "format": "4×12 (PPL)"
+        }
+      ]
+    },
+    "28": {
+      "title": "Jour 28",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Plank (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Dips",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Bench Press",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Leg Raises",
+          "format": "3×15 (Core)"
+        }
+      ]
+    },
+    "29": {
+      "title": "Jour 29",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Burpees",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Push-ups (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Pull-ups",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Deadlifts",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Rows",
+          "format": "3×10 (Force)"
+        }
+      ]
+    },
+    "30": {
+      "title": "Jour 30",
+      "exercises": [
+        {
+          "name": "Échauffement (cardio léger)",
+          "format": "5 min"
+        },
+        {
+          "name": "Squat Jumps",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Jumping Jacks",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Lunges (HIIT)",
+          "format": "45s ×3 (HIIT)"
+        },
+        {
+          "name": "Squats (Strength)",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Overhead Press",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Rows",
+          "format": "3×10 (Force)"
+        },
+        {
+          "name": "Calf Raises",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Lunges (PPL)",
+          "format": "4×12 (PPL)"
+        },
+        {
+          "name": "Crunches",
+          "format": "3×15 (Core)"
+        }
+      ]
+    }
+  }
+}
