@@ -6,9 +6,29 @@
     <title>Workout Coach</title>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#111827">
-    <style>html,body{margin:0;padding:0;background:#0f172a;color:#e5e7eb;font-family:system-ui,-apple-system,Segoe UI,Roboto} .app{max-width:960px;margin:0 auto;padding:16px} .card{background:#111827;border:1px solid #1f2937;border-radius:16px;padding:16px;box-shadow:0 8px 24px rgba(0,0,0,.25);margin-bottom:16px} .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px} img{width:100%;height:auto;border-radius:12px;border:1px solid #1f2937;background:#0b1220} .row{display:flex;gap:8px;align-items:center;justify-content:space-between} .btn{padding:10px 14px;border-radius:12px;border:none;background:#2563eb;color:white;font-weight:600} .btn.secondary{background:#374151} .select{width:100%;padding:10px 12px;border-radius:12px;background:#0b1220;border:1px solid #374151;color:#e5e7eb} .ex{display:flex;gap:12px;align-items:center} .ex .meta{flex:1} .timer{font-variant-numeric:tabular-nums;font-size:22px;font-weight:700} .muted{opacity:.8;font-size:12px} .title{font-size:28px;font-weight:800;margin:8px 0 16px} .pill{font-size:12px;border:1px solid #374151;border-radius:999px;padding:4px 10px} footer{opacity:.7;font-size:12px;text-align:center;margin:20px 0} a{color:#93c5fd}</style>
+    <style>
+      html,body{margin:0;padding:0;background:#0f172a;color:#e5e7eb;font-family:system-ui,-apple-system,Segoe UI,Roboto}
+      .app{max-width:960px;margin:0 auto;padding:16px}
+      .card{background:#111827;border:1px solid #1f2937;border-radius:16px;padding:16px;box-shadow:0 8px 24px rgba(0,0,0,.25);margin-bottom:16px}
+      .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+      img{width:100%;height:auto;border-radius:12px;border:1px solid #1f2937;background:#0b1220}
+      .row{display:flex;gap:8px;align-items:center;justify-content:space-between}
+      .btn{padding:10px 14px;border-radius:12px;border:none;background:#2563eb;color:white;font-weight:600}
+      .btn.secondary{background:#374151}
+      .select{width:100%;padding:10px 12px;border-radius:12px;background:#0b1220;border:1px solid #374151;color:#e5e7eb}
+      .ex{display:flex;gap:12px;align-items:center}
+      .ex .meta{flex:1}
+      .timer{font-variant-numeric:tabular-nums;font-size:22px;font-weight:700}
+      .muted{opacity:.8;font-size:12px}
+      .title{font-size:28px;font-weight:800;margin:8px 0 16px}
+      .pill{font-size:12px;border:1px solid #374151;border-radius:999px;padding:4px 10px}
+      footer{opacity:.7;font-size:12px;text-align:center;margin:20px 0}
+      a{color:#93c5fd}
+    </style>
     <script>
-      if('serviceWorker' in navigator){window.addEventListener('load',()=>{navigator.serviceWorker.register('service-worker.js');});}
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',()=>{navigator.serviceWorker.register('service-worker.js');});
+      }
     </script>
   </head>
   <body>
@@ -25,7 +45,7 @@
         <select id="daySelect" class="select"></select>
       </div>
       <div id="exList" class="grid"></div>
-      <footer>Images extraites des documents fournis. App offline installable (Android: menu ⋮ → « Ajouter à l'écran d'accueil »).</footer>
+      <footer>Images extraites des documents fournis. App offline installable (Android: menu ⋮ → « Ajouter à l'écran d'accueil »).</footer>
     </div>
     <script src="app.js"></script>
   </body>
